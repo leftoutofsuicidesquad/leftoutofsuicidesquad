@@ -5,6 +5,7 @@
 - 📫 How to reach me: soeren@eckhardt.top
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an HPE DL380 G6
+- 💻 Currently working on a PinePhone Toolbox
 
 <!---
 leftoutofsuicidesquad/leftoutofsuicidesquad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
